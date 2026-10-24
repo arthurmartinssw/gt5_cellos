@@ -1,0 +1,28 @@
+﻿# Build artifacts
+/build/
+/cmake-build-*/
+/out/
+
+# Compiled binaries
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local configuration
+.env
+.env.*
+
+# Game and proprietary files
+*.elf
+*.prx
